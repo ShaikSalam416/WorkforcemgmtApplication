@@ -1,13 +1,13 @@
-package com.example.WorkforcemgmtApplication;
+package com.railse.hiring.workforcemgmt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WorkforcemgmtApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WorkforcemgmtApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
